@@ -697,66 +697,13 @@ void CTF2::ColorToHSV( const Color& Col, float* HSV )
 
 std::string CTF2::GetUserName( unsigned long long SteamID )
 {
-	switch ( SteamID )
-	{
-		//source access
-		case 76561198316334587: { return "cleric"; }
-		case 76561199123546700: { return "Mad?"; }
-		case 76561199545760040: { return "jenga"; }
-
-		//beta access
-		case 76561199097087535: { return "Yani"; }
-		case 76561199239697704: { return "relaxtakenotes"; }
-		case 76561198055938080: { return "Teki"; }
-		case 76561199466680140: { return "Ken"; }
-		case 76561198141149000:
-		case 76561199476288533: { return "Maurice"; }
-		case 76561199024591783:	// DoesColder (main account)
-		case 76561199021322150: { return "DoesColder"; } // DoesColder (alt account)
-		case 76561198289945886: { return "Godl3ss"; }
-		case 76561199236564495: { return "Dafo"; }
-		case 76561199071704588: { return "Zphr"; }
-		case 76561198839612863: { return "M-Fed"; }
-		default: { return ""; }
-	}
-	return "";
+	return "CRACKED USER";
 }
 
 std::string CTF2::GetBuildName( unsigned long long SteamID )
 {
-	switch ( SteamID )
-	{
-		case 76561198316334587:
-		case 76561199123546700:
-		case 76561199545760040: 
-		{ 
-			G->Authentication->IsDebugAllowed = true;
-			std::string build = "";
-
-/*#ifdef _DEBUG
-			build = "Debug - AVX2";
-#else
-			build = "Release - AVX2";
-#endif*/
-			build = "Debug";
-			return build; 
-		}
-
-		case 76561199097087535:
-		case 76561199239697704:
-		case 76561198055938080:
-		case 76561199466680140:
-		case 76561198141149000:
-		case 76561199476288533:
-		case 76561199024591783:
-		case 76561199021322150:
-		case 76561198289945886:
-		case 76561199236564495:
-		case 76561199071704588:
-		case 76561198839612863: { G->Authentication->IsDebugAllowed = false; return "Beta"; }
-		default: { return ""; }
-	}
-	return "";
+	G->Authentication->IsDebugAllowed = true;
+	return "BETA";
 }
 
 int CTF2::SeedFileLineHash( int seedvalue, const char* sharedname, int additionalSeed )
