@@ -77,7 +77,7 @@ void CMenu::Run( )
 		Input->Drag( WindowSize.x, WindowSize.y, WindowSize.w, 22, 0 );
 	}
 
-	RenderWindow( "Ateris.Technologies", WindowSize, Config->Colors->MenuBackground, Config->Colors->MenuBorders, { 0, 100, 200, 255 } );
+	RenderWindow( "rateris.destroyer", WindowSize, Config->Colors->MenuBackground, Config->Colors->MenuBorders, { 0, 100, 200, 255 } );
 
 	LastTabPos = { WindowSize.x + 1, WindowSize.y + 22, 88, 25 };
 	//LastSubtabPos = { WindowSize.x, WindowSize.y + 15 + 20, ( int )( WindowSize.w * 0.25f ), 15 };
@@ -208,7 +208,7 @@ void CMenu::Run( )
 	{
 		PushGroupX( WindowSize.x - 3 );
 		MenuSpace( -4 );
-		Button( "Sure?", [ & ] ( )
+		Button( "Confirm?", [ & ] ( )
 		{
 			if ( list[ ConfigSelected ] )
 			{
@@ -239,7 +239,7 @@ void CMenu::Run( )
 	}
 	else
 	{
-		Button( "Sure?", [ & ] ( )
+		Button( "Confirm?", [ & ] ( )
 		{
 			if ( list[ ConfigSelected ] )
 			{
@@ -268,7 +268,7 @@ void CMenu::Run( )
 	{
 		PushGroupX( WindowSize.x - 3 );
 		MenuSpace( -4 );
-		Button( "Sure?", [ & ] ( )
+		Button( "Confirm?", [ & ] ( )
 		{
 			if ( list[ ConfigSelected ] )
 			{
@@ -1685,11 +1685,11 @@ void CMenu::Run( )
 							OpenInfo = info;
 							ComboBox( "Priority", gPriorities[ info.friendsID ].Priority,
 									  {
-										  "Default",
-										  "Suspicious",
-										  "Cheater",
-										  "Friend",
-										  "Important"
+										  "Losers lmao",
+										  "False Pos",
+										  "Nigger",
+										  "Homie",
+										  "First priority"
 									  } );
 
 							if ( Button( "Save", 193 ) )
@@ -1803,7 +1803,7 @@ void CMenu::RenderPlayer( int idx, const PlayerInfo_t& info )
 void CMenu::SavePlayer( int FriendsID, const PriorityPlayer_t& Player )
 {
 	Json::Value Root;
-	std::ifstream Input( "AterisPlayer.list" );
+	std::ifstream Input( "rateris.destroyer" );
 	if ( Input.is_open( ) )
 	{
 		Input >> Root;
@@ -1825,7 +1825,7 @@ void CMenu::SavePlayer( int FriendsID, const PriorityPlayer_t& Player )
 	Root[ std::to_string( FriendsID ) ][ "priority" ] = Player.Priority;
 	Root[ std::to_string( FriendsID ) ][ "resolver" ] = Player.Resolver;
 	Root[ std::to_string( FriendsID ) ][ "voicesay" ] = Player.VoiceSay;
-	std::ofstream output( "AterisPlayer.list" );
+	std::ofstream output( "rateris.destroyer" );
 	if ( output.is_open( ) )
 	{
 		output << Root;
