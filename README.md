@@ -41,5 +41,10 @@ idk what else i did but ok
 - fuck with the beta features
 - paste some epik visual
 - maek bettir skin changer
+## NOTE
+If ateris crashes on restart keep trying until it doesnt crash
+or inject the dll file while the game is still on the black screen
+otherwise you can delete the entire ateris folder and rerun the dll to see if that works
+I'm trying to fix dis😤
 
 
