@@ -1,5 +1,5 @@
 ![image](https://github.com/Saokian/rateris.teknologiz/assets/114639772/8f31ed70-e988-4f93-8d96-0a912129a0aa)
-align="center" style="margin-top: 0px;">rateris.technologies</h2>  
+<h2 align="center" style="margin-top: 0px;">rateris.technologies</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
 <h2 align="center" style="margin-top: 0px;">"Config issue"</h2>
 <p align="center">
