@@ -28,20 +28,6 @@ TFGHOST : https://www.unknowncheats.me/forum/team-fortress-2-a/598383-tf2classic
    2. ![Screenshot (264)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/768a20f5-23c5-43c6-8d05-588c76f6f159)
    3. ![Screenshot (263)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/c68a7399-07d0-48e7-8279-51a674c5851d)
 
-
-
-
-
-## Credits to:
-* Teki
-* Mad?
-* M-Fed
-* Zphr
-* Yani
-* Ken
-* Jp4
-  And everybody else that contributed to the ATERIS.TECNOLOGIES project‼️😎
-
 ## Changes:
 Renamed ateris
 Beta access allowed
