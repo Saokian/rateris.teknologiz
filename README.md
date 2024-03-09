@@ -7,7 +7,7 @@ Who uses this?
   
 ## bug that i dont bother to fix😎
 - Killsay crashes the game
-- Model colors not being able to be saved
+- Model colors refusing to get saved
 - random ass crashes
 - crashes to saxton hales hotass body
 - outdated and buggy asf
@@ -47,4 +47,13 @@ Renamed ateris
 Beta access allowed
 Renamed Cheater, Suspicious, Friend and Normal ppl
 idk what else i did but ok
+
+## TO DO LIST: 
+- Fix Killsay
+- Fix model colors n shet
+- Fix the random crashes
+- fuck with the beta features
+- paste some epik visual
+- maek bettir skin changer
+
 
