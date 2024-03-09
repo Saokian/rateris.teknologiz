@@ -1,4 +1,5 @@
-![Screenshot (266)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/fa0d650a-e87c-4c10-a95c-5de43d125be7)<h2 align="center" style="margin-top: 0px;">rateris.technologies</h2>  
+![image](https://github.com/Saokian/rateris.teknologiz/assets/114639772/8f31ed70-e988-4f93-8d96-0a912129a0aa)
+align="center" style="margin-top: 0px;">rateris.technologies</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
 <h2 align="center" style="margin-top: 0px;">"Config issue"</h2>
 <p align="center">
@@ -25,7 +26,8 @@ TFGHOST : https://www.unknowncheats.me/forum/team-fortress-2-a/598383-tf2classic
    screenshots for you visual freaks🤭
    1. ![Screenshot (266)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/d904ff40-dc71-41d1-a27c-0c99ed584ba0)
    2. ![Screenshot (264)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/768a20f5-23c5-43c6-8d05-588c76f6f159)
-   3. ![Uploading Screenshot (263).png…]()
+   3. ![Screenshot (263)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/c68a7399-07d0-48e7-8279-51a674c5851d)
+
 
 
 
