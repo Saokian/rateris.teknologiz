@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-top: 0px;">rateris.technologies</h2>  
+![Screenshot (266)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/fa0d650a-e87c-4c10-a95c-5de43d125be7)<h2 align="center" style="margin-top: 0px;">rateris.technologies</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
 <h2 align="center" style="margin-top: 0px;">"Config issue"</h2>
 <p align="center">
@@ -23,9 +23,12 @@ TFGHOST : https://www.unknowncheats.me/forum/team-fortress-2-a/598383-tf2classic
    https://drive.google.com/file/d/1bheTnOxkoEEmwUkP5UulWbu_D3z7YqV6/view?usp=sharing
    mid cfg
    screenshots for you visual freaks🤭
-   1. https://files.catbox.moe/risvil.png
-   2. https://files.catbox.moe/w0fp4n.png
-   3. https://files.catbox.moe/8ykaa0.png
+   1. ![Screenshot (266)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/d904ff40-dc71-41d1-a27c-0c99ed584ba0)
+   2. ![Screenshot (264)](https://github.com/Saokian/rateris.teknologiz/assets/114639772/768a20f5-23c5-43c6-8d05-588c76f6f159)
+   3. ![Uploading Screenshot (263).png…]()
+
+
+
 
 ## Credits to:
 * Teki
