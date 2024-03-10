@@ -41,6 +41,7 @@ idk what else i did but ok
 - fuck with the beta features
 - paste some epik visual
 - maek bettir skin changer
+- Make a better spectator list
 ## NOTE
 If ateris crashes on restart keep trying until it doesnt crash
 or inject the dll file while the game is still on the black screen
