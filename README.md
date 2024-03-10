@@ -1,26 +1,21 @@
 ![image](https://github.com/Saokian/rateris.teknologiz/assets/114639772/8f31ed70-e988-4f93-8d96-0a912129a0aa)
-<h2 align="center" style="margin-top: 0px;">rateris.technologies</h2>  
+<h2 align="center" style="margin-top: 0px;">rateris.teknoligis</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
-<h2 align="center" style="margin-top: 0px;">"Config issue"</h2>
+<h2 align="center" style="margin-top: 0px;">"FUCK YUO😡‼️👹"</h2>
 <p align="center">
-Who uses this?
+self coded real
   
-## bug that i dont bother to fix😎
+## bug that i think should be kept😎
 - Killsay crashes the game
-- Model colors refusing to get saved
-- random ass crashes
-- crashes to saxton hales hotass body
-- outdated and buggy asf
+- model colors being autistic and not saving
+- Crashes on launch and sometimes just randomly
   
 
 
-## Guide:
-- COMPILE SRC FILE OR USE DLL IN RELEASES THEN USE SOME INJECTOR FOR TF2. 
-I USE TF GHOST AND OCCASIONALLY GAME-OWNER
-Game-Owner : https://www.unknowncheats.me/forum/pc-software/105007-gameowner-simple-dll-injector.html
-TFGHOST : https://www.unknowncheats.me/forum/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html
+## Guide😳:
+- download the dll which has the lastest shit or compile the src file which i dont bother to touch but ok then use a injector i use game owner😎😎
 
-## Config for you noobies
+## Retarded config (plz help)
    https://drive.google.com/file/d/1bheTnOxkoEEmwUkP5UulWbu_D3z7YqV6/view?usp=sharing
    mid cfg
    screenshots for you visual freaks🤭
@@ -43,9 +38,4 @@ idk what else i did but ok
 - maek bettir skin changer
 - Make a better spectator list
 ## NOTE
-If ateris crashes on restart keep trying until it doesnt crash
-or inject the dll file while the game is still on the black screen
-otherwise you can delete the entire ateris folder and rerun the dll to see if that works
-I'm trying to fix dis😤
-
-
+0 support for any bugs idgaf fix it on your own or wait till new dll is released
