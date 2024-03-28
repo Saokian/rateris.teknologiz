@@ -5,7 +5,7 @@
 <p align="center">
 V3 BABY
 <p align="center">
-SRC is lost, project halted
+what the fuck 2 weeks of coding and the src gets deleted for some reason
 
 ## To do list:
 * fix proj aimbot
